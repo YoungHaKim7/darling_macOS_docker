@@ -2,7 +2,9 @@
 
 - Dockerfile을 작성하고 실행하는 방법
 
-https://sewcode.tistory.com/2
+  - https://sewcode.tistory.com/2
+
+- https://www.kali.org/docs/containers/installing-docker-on-kali/
 
 <hr>
 
