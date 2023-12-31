@@ -1,3 +1,8 @@
+# Darling(run macOS software on Linux)
+
+- https://www.darlinghq.org/
+- eBook https://docs.darlinghq.org/build-instructions.html
+
 # darling_macOS_docker
 
 - Dockerfile을 작성하고 실행하는 방법
