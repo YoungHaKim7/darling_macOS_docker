@@ -1,3 +1,11 @@
+# Original Source
+
+- https://github.com/darlinghq/darling-docker
+- Docker file세팅이 옛날꺼라 최신꺼로 수정해야함. 도커파일 공부해야함. ㅠㅠ 231231
+
+
+<hr>
+
 # Darling(run macOS software on Linux)
 
 - https://www.darlinghq.org/
@@ -19,9 +27,6 @@ https://github.com/darlinghq/darling/releases
 
 <hr>
 
-# Original Source
-
-- https://github.com/darlinghq/darling-docker
 
 # Darling in Docker
 
